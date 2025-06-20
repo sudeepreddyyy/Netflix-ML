@@ -39,9 +39,7 @@ This end-to-end ML project simulates user behavior and builds recommendation eng
 
 ---
 
-## 🖼️ Preview (Markov Model Example)
 
-> Replace the link below with your own uploaded GitHub image or screenshot
 
 
 # Clone the repo
