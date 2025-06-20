@@ -17,6 +17,9 @@ This end-to-end ML project simulates user behavior and builds recommendation eng
 
 ---
 
+![image](https://github.com/user-attachments/assets/3794dc50-86c6-4308-8d4d-d870bb710050)
+
+
 ## 📚 Key Concepts Covered
 
 - Session tracking: how users navigate Netflix-style platforms
