@@ -43,9 +43,6 @@ This end-to-end ML project simulates user behavior and builds recommendation eng
 
 > Replace the link below with your own uploaded GitHub image or screenshot
 
-```md
-![User Page Flow](https://github.com/sudeepreddyyy/Netflix-ML/assets/preview-1.png)
-
 
 # Clone the repo
 git clone git@github.com:sudeepreddyyy/Netflix-ML.git
