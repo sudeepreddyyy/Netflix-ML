@@ -42,3 +42,19 @@ This end-to-end ML project simulates user behavior and builds recommendation eng
 
 ```md
 ![User Page Flow](https://github.com/sudeepreddyyy/Netflix-ML/assets/preview-1.png)
+
+
+# Clone the repo
+git clone git@github.com:sudeepreddyyy/Netflix-ML.git
+cd Netflix-ML
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate     # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the notebook
+jupyter notebook Netflix_Recommender_Project.ipynb
